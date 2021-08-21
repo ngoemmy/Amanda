@@ -1,0 +1,2 @@
+# Amanda
+introduction to Git
